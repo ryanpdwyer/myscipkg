@@ -35,7 +35,7 @@ setup(
     # This lets setuptools include_package_data work with git
     setup_requires=["setuptools_git >= 0.3"],
     packages=find_packages(),
-    install_requires=[],
+    install_requires=['numpy', 'scipy', 'matplotlib'],
     tests_require=['nose'],
     test_suite='nose.collector',
     keywords='myscipkg',
