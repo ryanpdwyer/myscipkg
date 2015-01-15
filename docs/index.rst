@@ -22,6 +22,7 @@ Contents:
    installation
    contributing
    authors
+   myscipkg
 
 Feedback
 ========
