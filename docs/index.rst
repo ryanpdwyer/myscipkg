@@ -5,6 +5,14 @@
 
 .. include:: ../README.rst
 
+Here is an equation, which should be rendered by MathJax.
+
+.. math::
+    
+    T = \frac{1}{2} m v^2
+
+.. image:: images/ex.*
+
 Contents:
 =========
 
