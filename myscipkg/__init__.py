@@ -24,4 +24,10 @@ __version__ = '0.1.0'
 import numpy as np
 import scipy as sp
 import matplotlib as mpl
-import matplotlib.pyplot as plt
+
+# This line did break readthedocs
+# import matplotlib.pyplot as plt
+
+# What about this line?
+from matplotlib import pyplot as plt
+
