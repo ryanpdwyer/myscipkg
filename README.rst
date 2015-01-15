@@ -2,9 +2,6 @@
 myscipkg
 =============================
 
-.. image:: https://badge.fury.io/py/myscipkg.png
-    :target: http://badge.fury.io/py/myscipkg
-
 .. image:: https://travis-ci.org/ryanpdwyer/myscipkg.png?branch=master
     :target: https://travis-ci.org/ryanpdwyer/myscipkg
 
